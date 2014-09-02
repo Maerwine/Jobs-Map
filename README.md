@@ -1,4 +1,4 @@
-JobsMap
-=======
+Job-Tree
+========
 
-This is an adaptation of the Tree Map into a Jobs Map where users may easily view the jobs recommended to them.
+This is adapted from the Word Tree that would allow users to quickly search for related phrases within Job Descriptions.
